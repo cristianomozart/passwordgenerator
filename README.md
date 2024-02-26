@@ -22,7 +22,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/password-generator.git
+git clone [https://github.com/yourusername/password-generator](https://github.com/cristianomozart/passwordgenerator)
 Navigate to the project directory:
 bash
 Copy code
